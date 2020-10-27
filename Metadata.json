@@ -1,0 +1,20 @@
+{
+    "Author": "Ruturaj Dhekane",
+    "ContentSize": 5855,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/add-public-ip-and-nsg-to-arm-vms-during-test-failover-of-an-asr-recovery-plan/master/AddPublicIPAndNSGToGroup.ps1",
+    "DownloadCount": 3676,
+    "Id": "Add-Public-IP-and-NSG-to-a6bb8fee",
+    "IsFederated": true,
+    "IsWorkflow": true,
+    "Popularity": 22,
+    "RaterCount": 1,
+    "Rating": 5.0,
+    "ReleaseDate": "2017-2-13T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "This will create a Public IP address for the failed over VM - only in test failover.Pre-requisites \u00a01. when you create a new Automation Account, make sure you have chosen to create a run-as account with it.\u00a02. If you create a run as account on your own, give the Connection Na",
+    "Title": "Add Public IP and NSG to ARM VMs during Test Failover of an ASR Recovery Plan",
+    "UpdatedDate": "2017-3-14T00:00:00",
+    "Url": "https://github.com/azureautomation/add-public-ip-and-nsg-to-arm-vms-during-test-failover-of-an-asr-recovery-plan",
+    "UserTags": "Disaster Recovery, Azure Site Recovery"
+}
